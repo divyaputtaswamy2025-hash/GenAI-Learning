@@ -1,0 +1,5 @@
+Python is a versatile programming language.
+It was created by Guido van Rossum and released in 1991.
+Python is now one of the most popular languages in the world.
+It is used extensively in data science and machine learning.
+LangChain is built on top of Python to simplify LLM development.

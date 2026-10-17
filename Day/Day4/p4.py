@@ -15,6 +15,7 @@ Put GEMINI_API_KEY in .env.
 # Import the libraries and framework components required by this example.
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
+load_dotenv()
 
 # Modern LangChain imports replacing deprecated legacy components
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder

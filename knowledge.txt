@@ -1,0 +1,19 @@
+Python is a high-level, general-purpose programming language.
+It supports multiple paradigms including object-oriented and functional programming.
+Python was created by Guido van Rossum and released in 1991.
+The language is widely used in web development, data science, and artificial intelligence.
+
+LangChain is a framework for building LLM-powered applications.
+It provides abstractions for prompts, chains, memory, and tools.
+LangChain supports integration with many LLM providers including Gemini and Ollama.
+The LCEL pipe syntax makes it easy to compose chains.
+
+RAG stands for Retrieval Augmented Generation.
+RAG solves the problem of LLMs not knowing about your private documents.
+The retriever fetches relevant chunks; the LLM generates an answer from them.
+ChromaDB is a popular vector database used in RAG pipelines.
+
+Embeddings are numerical representations of text.
+Similar sentences produce similar embedding vectors.
+Cosine similarity measures how close two embedding vectors are.
+The Gemini gemini-embedding-001 model produces dense float vectors.
